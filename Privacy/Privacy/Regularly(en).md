@@ -24,8 +24,8 @@ This Privacy Policy does not cover the use of various technologies by advertiser
 
 You can exercise an opt-out for interest based advertising services on mobile applications by checking the privacy settings of your iOS device and selecting "limit ad tracking". If you would like to adjust your choices regarding the use of precise location data, you may also do so via your mobile device settings.
 
-For more information about their privacy practices and opt-out possibilities, please visit the links below.
-Google
+For more information about their privacy practices and opt-out possibilities, please visit the links below.  
+Google  
 Privacy Policy: https://policies.google.com/privacy
 
 
