@@ -44,7 +44,7 @@ Google
 
 ### 联系我们
 我们希望这一声明给您提供了详细且明确的说明。如有任何问题或建议，请发送电子邮件给我们 
-zhi6w@outlook.com)
+zhi6w@outlook.com
 
 
 
