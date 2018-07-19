@@ -6,8 +6,8 @@
 
 #### 收集个人资料的目的，以及使用的服务：
 
-* **分析**
-    **Apple Store Connect**
+* **分析**  
+  **Apple Store Connect**
 
 ### 信息的收集和使用
 
