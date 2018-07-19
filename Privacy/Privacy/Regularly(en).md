@@ -22,6 +22,12 @@ We work with a variety of advertisers, advertising networks, advertising servers
 
 This Privacy Policy does not cover the use of various technologies by advertisers, advertising networks, advertising servers, and analytics companies. These companies may also obtain information from services you use from other companies, including without limitation, other websites, mobile websites, mobile downloadable applications, and downloadable desktop applications, and combine that information with information they obtain through these third party technologies on our Services. You should be aware that we do not have control over these third party technologies or the information contained in them.
 
+You can exercise an opt-out for interest based advertising services on mobile applications by checking the privacy settings of your iOS device and selecting "limit ad tracking". If you would like to adjust your choices regarding the use of precise location data, you may also do so via your mobile device settings.
+
+For more information about their privacy practices and opt-out possibilities, please visit the links below.
+Google
+Privacy Policy: https://policies.google.com/privacy
+
 
 ### Security
 
