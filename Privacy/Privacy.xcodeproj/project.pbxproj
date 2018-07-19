@@ -13,6 +13,7 @@
 		D931593421008001009EC4D4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D931593321008001009EC4D4 /* Assets.xcassets */; };
 		D931593721008001009EC4D4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D931593521008001009EC4D4 /* LaunchScreen.storyboard */; };
 		D9315942210080DA009EC4D4 /* Regularly(zh-Hans).md in Resources */ = {isa = PBXBuildFile; fileRef = D9315941210080DA009EC4D4 /* Regularly(zh-Hans).md */; };
+		D93159442100A15F009EC4D4 /* Regularly(en).md in Resources */ = {isa = PBXBuildFile; fileRef = D93159432100A15F009EC4D4 /* Regularly(en).md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D931593621008001009EC4D4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D931593821008001009EC4D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D9315941210080DA009EC4D4 /* Regularly(zh-Hans).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Regularly(zh-Hans).md"; sourceTree = "<group>"; };
+		D93159432100A15F009EC4D4 /* Regularly(en).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Regularly(en).md"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				D93159402100809F009EC4D4 /* Supporting Files */,
 				D9315941210080DA009EC4D4 /* Regularly(zh-Hans).md */,
+				D93159432100A15F009EC4D4 /* Regularly(en).md */,
 			);
 			path = Privacy;
 			sourceTree = "<group>";
@@ -134,6 +137,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D931593721008001009EC4D4 /* LaunchScreen.storyboard in Resources */,
+				D93159442100A15F009EC4D4 /* Regularly(en).md in Resources */,
 				D9315942210080DA009EC4D4 /* Regularly(zh-Hans).md in Resources */,
 				D931593421008001009EC4D4 /* Assets.xcassets in Resources */,
 				D931593221008000009EC4D4 /* Main.storyboard in Resources */,
