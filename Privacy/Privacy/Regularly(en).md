@@ -44,7 +44,7 @@ If our information practices change at some time in the future we will post the 
 ### Contact Us
 
 We hope this statement has been informative and clear. Please e-mail us regarding any questions or further information you may be interested in.
-[zhi6w@outlook.com](zhi6w@outlook.com) 
+zhi6w@outlook.com
 
 
 
