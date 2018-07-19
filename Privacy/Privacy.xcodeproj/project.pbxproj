@@ -26,6 +26,8 @@
 		D931593821008001009EC4D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D9315941210080DA009EC4D4 /* Regularly(zh-Hans).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Regularly(zh-Hans).md"; sourceTree = "<group>"; };
 		D93159432100A15F009EC4D4 /* Regularly(en).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Regularly(en).md"; sourceTree = "<group>"; };
+		D93159452100A868009EC4D4 /* Begins(zh-Hans).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Begins(zh-Hans).md"; sourceTree = "<group>"; };
+		D93159462100A875009EC4D4 /* Begins(en).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Begins(en).md"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,8 @@
 				D93159402100809F009EC4D4 /* Supporting Files */,
 				D9315941210080DA009EC4D4 /* Regularly(zh-Hans).md */,
 				D93159432100A15F009EC4D4 /* Regularly(en).md */,
+				D93159452100A868009EC4D4 /* Begins(zh-Hans).md */,
+				D93159462100A875009EC4D4 /* Begins(en).md */,
 			);
 			path = Privacy;
 			sourceTree = "<group>";
