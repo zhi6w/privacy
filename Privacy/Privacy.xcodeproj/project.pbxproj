@@ -16,6 +16,7 @@
 		D931593721008001009EC4D4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D931593521008001009EC4D4 /* LaunchScreen.storyboard */; };
 		D9315942210080DA009EC4D4 /* Regularly(zh-Hans).md in Resources */ = {isa = PBXBuildFile; fileRef = D9315941210080DA009EC4D4 /* Regularly(zh-Hans).md */; };
 		D93159442100A15F009EC4D4 /* Regularly(en).md in Resources */ = {isa = PBXBuildFile; fileRef = D93159432100A15F009EC4D4 /* Regularly(en).md */; };
+		D9ABF5E22141641100678210 /* Shorthand(zh-Hant).md in Resources */ = {isa = PBXBuildFile; fileRef = D9ABF5E12141641100678210 /* Shorthand(zh-Hant).md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		D93159432100A15F009EC4D4 /* Regularly(en).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Regularly(en).md"; sourceTree = "<group>"; };
 		D93159452100A868009EC4D4 /* Begins(zh-Hans).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Begins(zh-Hans).md"; sourceTree = "<group>"; };
 		D93159462100A875009EC4D4 /* Begins(en).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Begins(en).md"; sourceTree = "<group>"; };
+		D9ABF5E12141641100678210 /* Shorthand(zh-Hant).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Shorthand(zh-Hant).md"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 				D93159462100A875009EC4D4 /* Begins(en).md */,
 				D906D6B5213E6AB700845816 /* Shorthand(en).md */,
 				D906D6B7213E6AC300845816 /* Shorthand(zh-Hans).md */,
+				D9ABF5E12141641100678210 /* Shorthand(zh-Hant).md */,
 			);
 			path = Privacy;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 			files = (
 				D931593721008001009EC4D4 /* LaunchScreen.storyboard in Resources */,
 				D93159442100A15F009EC4D4 /* Regularly(en).md in Resources */,
+				D9ABF5E22141641100678210 /* Shorthand(zh-Hant).md in Resources */,
 				D9315942210080DA009EC4D4 /* Regularly(zh-Hans).md in Resources */,
 				D931593421008001009EC4D4 /* Assets.xcassets in Resources */,
 				D906D6B6213E6AB700845816 /* Shorthand(en).md in Resources */,
