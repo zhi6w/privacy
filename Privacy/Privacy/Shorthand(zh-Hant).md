@@ -27,7 +27,7 @@
 
 如欲瞭解更多有關廣告商私隱行為及選擇的可能性，請流覽以下連結： 
 Google 
-隱私政策：HTTPs://policies.google.com/privacy
+隱私政策：https://policies.google.com/privacy
 
 
 ### 安全
