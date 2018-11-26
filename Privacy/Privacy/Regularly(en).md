@@ -1,4 +1,4 @@
-# Regularly Privacy Policy
+# Regular Privacy Policy
 
 
 ### Information gathering and usage
@@ -38,7 +38,7 @@ All data and information transmitted with Service is secured by SSL protocol.
 
 If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
-```Update: July 19, 2018```
+```Update: November 26, 2018```
 
 
 ### Contact Us
