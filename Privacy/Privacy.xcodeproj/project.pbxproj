@@ -9,6 +9,9 @@
 /* Begin PBXBuildFile section */
 		D906D6B6213E6AB700845816 /* Shorthand(en).md in Resources */ = {isa = PBXBuildFile; fileRef = D906D6B5213E6AB700845816 /* Shorthand(en).md */; };
 		D906D6B8213E6AC300845816 /* Shorthand(zh-Hans).md in Resources */ = {isa = PBXBuildFile; fileRef = D906D6B7213E6AC300845816 /* Shorthand(zh-Hans).md */; };
+		D9116BCB2201C49300EBDA40 /* Common(zh-Hans).md in Resources */ = {isa = PBXBuildFile; fileRef = D9116BCA2201C49200EBDA40 /* Common(zh-Hans).md */; };
+		D9116BCD2201C49D00EBDA40 /* Common(zh-Hant).md in Resources */ = {isa = PBXBuildFile; fileRef = D9116BCC2201C49D00EBDA40 /* Common(zh-Hant).md */; };
+		D9116BCF2201C4A700EBDA40 /* Common(en).md in Resources */ = {isa = PBXBuildFile; fileRef = D9116BCE2201C4A700EBDA40 /* Common(en).md */; };
 		D931592D21008000009EC4D4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D931592C21008000009EC4D4 /* AppDelegate.swift */; };
 		D931592F21008000009EC4D4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D931592E21008000009EC4D4 /* ViewController.swift */; };
 		D931593221008000009EC4D4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D931593021008000009EC4D4 /* Main.storyboard */; };
@@ -24,6 +27,9 @@
 /* Begin PBXFileReference section */
 		D906D6B5213E6AB700845816 /* Shorthand(en).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Shorthand(en).md"; sourceTree = "<group>"; };
 		D906D6B7213E6AC300845816 /* Shorthand(zh-Hans).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Shorthand(zh-Hans).md"; sourceTree = "<group>"; };
+		D9116BCA2201C49200EBDA40 /* Common(zh-Hans).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Common(zh-Hans).md"; sourceTree = "<group>"; };
+		D9116BCC2201C49D00EBDA40 /* Common(zh-Hant).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Common(zh-Hant).md"; sourceTree = "<group>"; };
+		D9116BCE2201C4A700EBDA40 /* Common(en).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Common(en).md"; sourceTree = "<group>"; };
 		D931592921007FFF009EC4D4 /* Privacy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Privacy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D931592C21008000009EC4D4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D931592E21008000009EC4D4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -79,6 +85,9 @@
 				D906D6B5213E6AB700845816 /* Shorthand(en).md */,
 				D906D6B7213E6AC300845816 /* Shorthand(zh-Hans).md */,
 				D9ABF5E12141641100678210 /* Shorthand(zh-Hant).md */,
+				D9116BCA2201C49200EBDA40 /* Common(zh-Hans).md */,
+				D9116BCC2201C49D00EBDA40 /* Common(zh-Hant).md */,
+				D9116BCE2201C4A700EBDA40 /* Common(en).md */,
 				D93159402100809F009EC4D4 /* Supporting Files */,
 			);
 			path = Privacy;
@@ -156,8 +165,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				D931593721008001009EC4D4 /* LaunchScreen.storyboard in Resources */,
+				D9116BCD2201C49D00EBDA40 /* Common(zh-Hant).md in Resources */,
 				D93159442100A15F009EC4D4 /* Regular(en).md in Resources */,
+				D9116BCF2201C4A700EBDA40 /* Common(en).md in Resources */,
 				D9ABF5E22141641100678210 /* Shorthand(zh-Hant).md in Resources */,
+				D9116BCB2201C49300EBDA40 /* Common(zh-Hans).md in Resources */,
 				D9315942210080DA009EC4D4 /* Regular(zh-Hans).md in Resources */,
 				D9E81110214A9B6000362E48 /* Begins(zh-Hant).md in Resources */,
 				D931593421008001009EC4D4 /* Assets.xcassets in Resources */,
