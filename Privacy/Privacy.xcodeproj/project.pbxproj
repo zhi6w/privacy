@@ -19,6 +19,9 @@
 		D931593721008001009EC4D4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D931593521008001009EC4D4 /* LaunchScreen.storyboard */; };
 		D9315942210080DA009EC4D4 /* Regular(zh-Hans).md in Resources */ = {isa = PBXBuildFile; fileRef = D9315941210080DA009EC4D4 /* Regular(zh-Hans).md */; };
 		D93159442100A15F009EC4D4 /* Regular(en).md in Resources */ = {isa = PBXBuildFile; fileRef = D93159432100A15F009EC4D4 /* Regular(en).md */; };
+		D97B30F522DF0B1B00EC98F7 /* Common(zh-Hans).md in Resources */ = {isa = PBXBuildFile; fileRef = D97B30F222DF0B1B00EC98F7 /* Common(zh-Hans).md */; };
+		D97B30F622DF0B1B00EC98F7 /* Common(zh-Hant).md in Resources */ = {isa = PBXBuildFile; fileRef = D97B30F322DF0B1B00EC98F7 /* Common(zh-Hant).md */; };
+		D97B30F722DF0B1B00EC98F7 /* Common(en).md in Resources */ = {isa = PBXBuildFile; fileRef = D97B30F422DF0B1B00EC98F7 /* Common(en).md */; };
 		D9ABF5E22141641100678210 /* Shorthand(zh-Hant).md in Resources */ = {isa = PBXBuildFile; fileRef = D9ABF5E12141641100678210 /* Shorthand(zh-Hant).md */; };
 		D9E8110E214A9B1800362E48 /* Regular(zh-Hant).md in Resources */ = {isa = PBXBuildFile; fileRef = D9E8110D214A9B1800362E48 /* Regular(zh-Hant).md */; };
 		D9E81110214A9B6000362E48 /* Begins(zh-Hant).md in Resources */ = {isa = PBXBuildFile; fileRef = D9E8110F214A9B6000362E48 /* Begins(zh-Hant).md */; };
@@ -41,6 +44,9 @@
 		D93159432100A15F009EC4D4 /* Regular(en).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Regular(en).md"; sourceTree = "<group>"; };
 		D93159452100A868009EC4D4 /* Begins(zh-Hans).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Begins(zh-Hans).md"; sourceTree = "<group>"; };
 		D93159462100A875009EC4D4 /* Begins(en).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Begins(en).md"; sourceTree = "<group>"; };
+		D97B30F222DF0B1B00EC98F7 /* Common(zh-Hans).md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = "Common(zh-Hans).md"; path = "Privacy/Common(zh-Hans).md"; sourceTree = SOURCE_ROOT; };
+		D97B30F322DF0B1B00EC98F7 /* Common(zh-Hant).md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = "Common(zh-Hant).md"; path = "Privacy/Common(zh-Hant).md"; sourceTree = SOURCE_ROOT; };
+		D97B30F422DF0B1B00EC98F7 /* Common(en).md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = "Common(en).md"; path = "Privacy/Common(en).md"; sourceTree = SOURCE_ROOT; };
 		D9ABF5E12141641100678210 /* Shorthand(zh-Hant).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Shorthand(zh-Hant).md"; sourceTree = "<group>"; };
 		D9E8110D214A9B1800362E48 /* Regular(zh-Hant).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Regular(zh-Hant).md"; sourceTree = "<group>"; };
 		D9E8110F214A9B6000362E48 /* Begins(zh-Hant).md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Begins(zh-Hant).md"; sourceTree = "<group>"; };
@@ -60,6 +66,7 @@
 		D931592021007FFF009EC4D4 = {
 			isa = PBXGroup;
 			children = (
+				D97B30F122DF0B0000EC98F7 /* New */,
 				D931592B21007FFF009EC4D4 /* Privacy */,
 				D931592A21007FFF009EC4D4 /* Products */,
 			);
@@ -104,6 +111,16 @@
 				D931593821008001009EC4D4 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		D97B30F122DF0B0000EC98F7 /* New */ = {
+			isa = PBXGroup;
+			children = (
+				D97B30F422DF0B1B00EC98F7 /* Common(en).md */,
+				D97B30F222DF0B1B00EC98F7 /* Common(zh-Hans).md */,
+				D97B30F322DF0B1B00EC98F7 /* Common(zh-Hant).md */,
+			);
+			path = New;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -171,7 +188,10 @@
 				D9ABF5E22141641100678210 /* Shorthand(zh-Hant).md in Resources */,
 				D9116BCB2201C49300EBDA40 /* Common(zh-Hans).md in Resources */,
 				D9315942210080DA009EC4D4 /* Regular(zh-Hans).md in Resources */,
+				D97B30F622DF0B1B00EC98F7 /* Common(zh-Hant).md in Resources */,
 				D9E81110214A9B6000362E48 /* Begins(zh-Hant).md in Resources */,
+				D97B30F722DF0B1B00EC98F7 /* Common(en).md in Resources */,
+				D97B30F522DF0B1B00EC98F7 /* Common(zh-Hans).md in Resources */,
 				D931593421008001009EC4D4 /* Assets.xcassets in Resources */,
 				D906D6B6213E6AB700845816 /* Shorthand(en).md in Resources */,
 				D9E8110E214A9B1800362E48 /* Regular(zh-Hant).md in Resources */,
